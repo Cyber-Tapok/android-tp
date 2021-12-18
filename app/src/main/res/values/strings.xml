@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ShareFile</string>
+    <string name="text_enter">Зайти</string>
+    <string name="hint_login">Введите логин</string>
+    <string name="upload">Загрузить</string>
+</resources>
